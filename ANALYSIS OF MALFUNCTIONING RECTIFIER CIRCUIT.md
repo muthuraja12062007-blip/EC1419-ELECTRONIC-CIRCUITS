@@ -1,6 +1,7 @@
 <img width="933" height="731" alt="image" src="https://github.com/user-attachments/assets/20119815-63e3-4350-a97b-2f9740c2e926" />
 <img width="885" height="762" alt="image" src="https://github.com/user-attachments/assets/8ff0fee1-9cdb-46ec-ad3d-8aaeb8821608" />
-<img width="706" height="280" alt="image" src="https://github.com/user-attachments/assets/a946feda-fee6-4986-95a0-f647f30af0c1" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/439ba658-9b76-41b3-a0f7-2602ac41e98c" />
+
 
 
 ##  MODEL GRAPH ##
