@@ -13,7 +13,8 @@
 
 ## TABULATION ##
 
-<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/149a1df2-245d-4fe0-b2cc-c98e6e9c2bec" />
+![WhatsApp Image 2026-03-25 at 8 56 07 PM](https://github.com/user-attachments/assets/f273fd38-20bb-486a-ad9f-5ee4e26d0e2a)
+
 
 ## GRAPH ##
 
