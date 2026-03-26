@@ -8,20 +8,24 @@
 <img width="610" height="426" alt="image" src="https://github.com/user-attachments/assets/42f77f02-6ee4-4029-844c-378198495696" />
 
 ## OSCILLATOR DESIGN
-<img width="887" height="808" alt="image" src="https://github.com/user-attachments/assets/82ed0acd-a832-4f36-851f-a0bdbb09dceb" />
-<img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
-<img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/ff173a68-720d-4789-98f6-96e88c4b3712" />
+
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/8d88bbd0-71ac-48ac-b93c-e27d6701a8cf" />
+
+<img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/676bd6d5-e68b-4816-b72d-d99f976fc084" />
+
 
 
 ## Tabulation
-![WhatsApp Image 2025-11-10 at 15 33 25](https://github.com/user-attachments/assets/c6a46642-e4bf-4fe1-bfbb-16e506260899)
+<img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/cddf6c51-af73-4ceb-a5bc-922ecc64143f" />
+
 
 
 ## Graph
-![WhatsApp Image 2025-11-10 at 15 34 26](https://github.com/user-attachments/assets/15abce25-401d-4fc7-a2a7-d1459e9ad9b0)
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/f78c974e-fca8-477d-af25-bc796a590572" />
 
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+## RESULT ##
+Thus the wein bridge oscillator was designed and simulated using LT spice
 
-Practical frequency of Oscillation =50Hz
-
-Theoritical Frequency of Oscillation =100.148Hz
+Practical Frequency of Oscillation=159kHZ
+Theoretical Frequency of Oscillation=599KHZ
